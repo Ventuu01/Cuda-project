@@ -1,5 +1,5 @@
 ## Project Overview
-This project implements and compares a CPU and two CUDA-based implementations
+This project implements and compares a CPU and two CUDA based implementations
 of the Sobel edge detection algorithm.
 
 ## Directory description
